@@ -1,3 +1,4 @@
+![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 <h1 align="center">Hi 👋, I'am Osanda Lelum</h1>
 <h3 align="center">I am a passionate programmer, problem solver , chess lover, Leader and a person who seek opportunities to enhance knowledge in anything</h3>
 
