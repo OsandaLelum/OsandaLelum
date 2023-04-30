@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osandalelum&label=Profile%20views&color=0e75b6&style=flat" alt="osandalelum" /> </p>
 
-- 🔭 I’m currently working on [pace institute](https://www.paceinstitute.lk/web-development/)
+- 🔭 I’m currently working on [pace institute](https://www.paceinstitute.lk/web-development/) and [GRI](https://gritires.com/)
 
 - 🌱 I’m currently learning **Machine Learning**
 
