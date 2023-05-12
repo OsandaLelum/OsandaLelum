@@ -57,12 +57,13 @@
 alt="https://www.buymeacoffee.com/osandal" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=osandalelum&show_icons=true&locale=en" alt="osandalelum"  /></p>
 
+<br>
 <details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsandaLelum&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsandaLelum&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsandaLelum&theme=dracula)
