@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://osandalelum.github.io/**
 
-- 📄 Know about my experiences [https://osandalelum.github.io/CV+PM+(2).pdf](https://osandalelum.github.io/CV+PM+(2).pdf)
+- 📄 Know about my experiences [My CV](https://osandalelum.github.io/CV+PM+(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,8 +71,6 @@ My Github Stats
 
 <br>
 Currently Coding & Listening to:
-   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rhfyqi4cltbz6gr5oq7aoj5frq&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rhfyqi4cltbz6gr5oq7aoj5frq)
-
 </details>
 
