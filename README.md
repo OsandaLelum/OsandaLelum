@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My CV](https://osandalelum.github.io/CV+PM+(2).pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://dev.to/osandalelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/osandalelum" height="30" width="40" /></a>
 <a href="https://twitter.com/osandalelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osandalelum" height="30" width="40" /></a>
