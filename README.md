@@ -58,7 +58,9 @@ alt="https://www.buymeacoffee.com/osandal" /></a></p><br><br>
 <details>
 <summary>📈 Stats</summary>
 <br>
+   
 Osa's Github Stats
+   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsandaLelum&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsandaLelum&theme=dracula) 
