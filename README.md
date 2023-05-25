@@ -48,21 +48,17 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></th>
    </tr>
 </table>
-
-
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/osandal"> 
 <br>
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" 
 alt="https://www.buymeacoffee.com/osandal" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=osandalelum&show_icons=true&locale=en" alt="osandalelum"  /></p>
-
 <br>
 <details>
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
-
+Osa's Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsandaLelum&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsandaLelum&theme=dracula) 
