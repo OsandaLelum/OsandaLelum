@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [pace institute](https://www.paceinstitute.lk/web-development/) and [GRI](https://gritires.com/)
 
-- 🌱 I’m currently learning **Machine Learning Data Science and Computere  vision**
+- 🌱 I’m currently learning **Machine Learning , Data Science and Computere  vision**
 
 - 📫 How to reach me **https://osandalelum.github.io/**
 
