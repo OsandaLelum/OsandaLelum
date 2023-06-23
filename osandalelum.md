@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'am Osanda Lelum</h1>
-<h3 align="center">I am a passionate programmer, problem solver , chess lover, Leader and a person who seek opportunities to enhance knowledge in anything</h3>
+<h3 align="center">I am a passionate Programmer, Problem Solver ,Chess Lover, Leader and a person who seek opportunities to enhance knowledge in anything</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osandalelum&label=Profile%20views&color=0e75b6&style=flat" alt="osandalelum" /> </p>
 
@@ -56,7 +56,7 @@ alt="https://www.buymeacoffee.com/osandal" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=osandalelum&show_icons=true&locale=en" alt="osandalelum"  /></p>
 <br>
 <details>
-<summary>📈 Stats</summary>
+<summary>📈 My Stats</summary>
 <br>
    
 Osa's Github Stats
