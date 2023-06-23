@@ -56,7 +56,7 @@ alt="https://www.buymeacoffee.com/osandal" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=osandalelum&show_icons=true&locale=en" alt="osandalelum"  /></p>
 <br>
 <details>
-<summary>📈 My Stats</summary>
+<summary>📈 Check My Stats</summary>
 <br>
    
 Osa's Github Stats
