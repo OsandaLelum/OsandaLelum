@@ -39,6 +39,7 @@ I am a passionate Programmer, Problem Solver, Chess Lover, Leader, and a person 
 - OpenCV
 - TensorFlow
 
+<<<<<<< HEAD
 ### Database
 - MySQL
 - MongoDB
@@ -46,6 +47,9 @@ I am a passionate Programmer, Problem Solver, Chess Lover, Leader, and a person 
 ### Mobile Application
 - Android
 - React Native
+=======
+</details>
+>>>>>>> 589d3cf4ae2c5ce29d5947e4165afe2357f489d7
 
 ## Support Me
 You can support me by [buying me a coffee](https://www.buymeacoffee.com/osandal).
