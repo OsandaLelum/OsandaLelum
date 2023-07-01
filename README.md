@@ -67,8 +67,5 @@ Osa's Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsandaLelum&theme=dracula)
 
 
-<br>
-Currently Coding & Listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rhfyqi4cltbz6gr5oq7aoj5frq&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rhfyqi4cltbz6gr5oq7aoj5frq)
 </details>
 
