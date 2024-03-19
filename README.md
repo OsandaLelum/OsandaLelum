@@ -57,13 +57,13 @@
 </tr>
    <tr>
    <th> 
-      <a href="https://ibb.co/y0XrGG4"><img src="https://i.ibb.co/2qyTmmZ/IFS-Logo-Social-Media-Profile-Picture.png" alt="IFS-Logo-Social-Media-Profile-Picture" border="0"  width="40" height="40"></a>
+        <a href="https://ibb.co/y0XrGG4"><img src="https://i.ibb.co/2qyTmmZ/IFS-Logo-Social-Media-Profile-Picture.png" alt="IFS-Logo-Social-Media-Profile-Picture" border="0"  width="40" height="40"></a><br/>
   
         <a href="https://ibb.co/fkcCK3m"><img src="https://i.ibb.co/By1g7h8/WFX-Logo-1.jpg" alt="WFX-Logo-1" border="0" width="40" height="40"></a> </th>
 
 
-        <th><a href="https://imgbb.com/"><img src="https://i.ibb.co/h7rWN5Q/Preactor-500x500.jpg" alt="Preactor-500x500" border="0"></a></th>
-   <th>   <a href="https://ibb.co/QP9YBWX"><img src="https://i.ibb.co/6HYDhKN/304832380-736433744109398-3044060185984526559-n.jpg" alt="304832380-736433744109398-3044060185984526559-n"  width="40" height="40" border="0"></a> </th>
+    <th><a href="https://imgbb.com/"><img src="https://i.ibb.co/h7rWN5Q/Preactor-500x500.jpg" alt="Preactor-500x500" border="0"></a></th>
+   <th><a href="https://ibb.co/QP9YBWX"><img src="https://i.ibb.co/6HYDhKN/304832380-736433744109398-3044060185984526559-n.jpg" alt="304832380-736433744109398-3044060185984526559-n"  width="40" height="40" border="0"></a> </th>
    
    </tr>
 </table>
