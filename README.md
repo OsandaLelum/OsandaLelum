@@ -59,7 +59,9 @@
    <th> 
       <a href="https://ibb.co/y0XrGG4"><img src="https://i.ibb.co/2qyTmmZ/IFS-Logo-Social-Media-Profile-Picture.png" alt="IFS-Logo-Social-Media-Profile-Picture" border="0"  width="40" height="40"></a><br /><br />
    </th>
+       <th>  <a href="https://ibb.co/fkcCK3m"><img src="https://i.ibb.co/By1g7h8/WFX-Logo-1.jpg" alt="WFX-Logo-1" border="0" width="40" height="40"></a> </th>
    <th>   <a href="https://ibb.co/QP9YBWX"><img src="https://i.ibb.co/6HYDhKN/304832380-736433744109398-3044060185984526559-n.jpg" alt="304832380-736433744109398-3044060185984526559-n"  width="40" height="40" border="0"></a><br /><br /> </th>
+   
    </tr>
 </table>
 
