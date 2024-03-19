@@ -56,8 +56,8 @@
 
 </tr>
    <tr>
-   <th> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ibb.co/y0XrGG4" alt="html5" width="40" height="40"/> </a> 
-      <a href="https://ibb.co/y0XrGG4"><img src="https://i.ibb.co/2qyTmmZ/IFS-Logo-Social-Media-Profile-Picture.png" alt="IFS-Logo-Social-Media-Profile-Picture" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload an image</a><br />
+   <th> 
+      <a href="https://ibb.co/y0XrGG4"><img src="https://i.ibb.co/2qyTmmZ/IFS-Logo-Social-Media-Profile-Picture.png" alt="IFS-Logo-Social-Media-Profile-Picture" border="0"  width="40" height="40"></a><br /><br />
    </th>
    <th>   <a href="https://ibb.co/QP9YBWX"><img src="https://i.ibb.co/6HYDhKN/304832380-736433744109398-3044060185984526559-n.jpg" alt="304832380-736433744109398-3044060185984526559-n" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload an image</a><br /> </th>
    </tr>
