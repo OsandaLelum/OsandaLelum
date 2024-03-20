@@ -58,7 +58,7 @@
    <tr>
    <th> 
         <a href="https://www.ifs.com/"><img src="https://i.ibb.co/2qyTmmZ/IFS-Logo-Social-Media-Profile-Picture.png" alt="IFS-Logo-Social-Media-Profile-Picture" border="0"  width="40" height="40"></a>
-        <a href="https://www.worldfashionexchange.com/"><img src="https://i.ibb.co/By1g7h8/WFX-Logo-1.jpg" alt="WFX-Logo-1" border="0" width="40" height="40"></a> 
+        <a href="https://www.worldfashionexchange.com/"><img src="https://i.ibb.co/By1g7h8/WFX-Logo-1.jpg" alt="WFX-Logo-1" border="0" width="60" height="40"></a> 
    </th>
     <th><a href="https://www.plm.automation.siemens.com/global/en/our-story/glossary/what-is-preactor-aps/89455"><img src="https://i.ibb.co/h7rWN5Q/Preactor-500x500.jpg" alt="Preactor-500x500" border="0" width="40" height="40"></a></th>
    <th><a https://www.novacura.com/"><img src="https://i.ibb.co/6HYDhKN/304832380-736433744109398-3044060185984526559-n.jpg" alt="304832380-736433744109398-3044060185984526559-n"  width="40" height="40" border="0"></a> </th>
